@@ -1,2 +1,2 @@
 # JP_Morgan
-Forage Vitual Internship
+Forage Virtual Internship
